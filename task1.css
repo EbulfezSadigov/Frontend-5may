@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: auto;
+    max-width: 880px;
+}
+.mydiv{
+    background-color: coral;
+    display: inline-block;
+    float: left;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 5px;
+    height: 60px;
+}
+.big{
+    display: inline-block;
+    float: left;
+    background-color: coral;
+    text-align: center;
+    height: 120px;
+}
